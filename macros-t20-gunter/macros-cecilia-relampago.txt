@@ -1,0 +1,19 @@
+CeciliaRelampago1
+```
+&{template:t20-attack}{{character=@{Gunter|character_name}}}{{attackname=Golpe Relâmpago com a Cecilia}}{{attackroll=[[1d20cs>20+[[@{Gunter|lutatotal}]]+0]]}}{{damageroll=[[1d6+@{Gunter|for_mod}+1d6+@{Gunter|Cecilia}]]}}{{criticaldamageroll=[[1d6 + 1d6+@{Gunter|for_mod}+1d6+@{Gunter|Cecilia}]]}}{{typeofdamage=Impacto}}{{description=[imagem](https://i.imgflip.com/5ybtkt.gif)}}
+```
+
+CeciliaRelampago2
+```
+&{template:t20-attack}{{character=@{Gunter|character_name}}}{{attackname=Golpe Relâmpago com a Cecilia}}{{attackroll=[[1d20cs>20+[[@{Gunter|lutatotal}]]+-2]]}} {{damageroll=[[1d6+@{Gunter|for_mod}+1d6+@{Gunter|Cecilia}+5]]}} {{criticaldamageroll=[[1d6 + 1d6+@{Gunter|for_mod}+1d6+@{Gunter|Cecilia}+5]]}}{{typeofdamage=Impacto}}{{description=[imagem](https://i.imgflip.com/5ybtkt.gif)}}
+```
+
+CeciliaRelampago3
+```
+&{template:t20-attack}{{character=@{Gunter|character_name}}}{{attackname=Golpe Relâmpago com a Cecilia}}{{attackroll=[[1d20cs>20+[[@{Gunter|lutatotal}]]+@{Gunter|int_mod}]]}} {{damageroll=[[1d6+@{Gunter|for_mod}+1d6+@{Gunter|Cecilia}+@{Gunter|int_mod}]]}} {{criticaldamageroll=[[1d6 + 1d6+@{Gunter|for_mod}+1d6+@{Gunter|Cecilia}+@{Gunter|int_mod}]]}}{{typeofdamage=Impacto}}{{description=[imagem](https://i.imgflip.com/5ybtkt.gif)}}
+```
+
+CeciliaRelampago4
+```
+&{template:t20-attack}{{character=@{Gunter|character_name}}}{{attackname=Golpe Relâmpago com a Cecilia}}{{attackroll=[[1d20cs>20+[[@{Gunter|lutatotal}]]+-2+@{Gunter|int_mod}]]}} {{damageroll=[[1d6+@{Gunter|for_mod}+1d6+@{Gunter|Cecilia}+5+@{Gunter|int_mod}]]}} {{criticaldamageroll=[[1d6 + 1d6+@{Gunter|for_mod}+1d6+@{Gunter|Cecilia}+5+@{Gunter|int_mod}]]}}{{typeofdamage=Impacto}}{{description=[imagem](https://i.imgflip.com/5ybtkt.gif)}}
+```
