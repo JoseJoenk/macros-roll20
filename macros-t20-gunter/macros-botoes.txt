@@ -1,0 +1,71 @@
+Ataques
+```
+&{template:t20}{{character=@{Gunter|character_name}}}{{rollname=Seleção de Ataques
+
+[Soco Normal](~Gunter|SocoGentil)
+[Cecilia](~Gunter|Cecilia)
+[Lâmina da Luz](~Gunter|LaminaDaLuz)
+[Golpe Relâmpago](~Gunter|GolpeRelampago)}}
+```
+
+SocoGentil
+```
+&{template:t20}{{character=@{Gunter|character_name}}}{{rollname=Soco Gentil
+
+[Soco Gentil](~Gunter|SocoGentil1)
+[Ataque Poderoso](~Gunter|SocoGentil2)
+[Impactos Precisos](~Gunter|SocoGentil3)
+[Ataque Poderoso e Impactos Precisos](~Gunter|SocoGentil4)}}
+```
+
+Cecilia
+```
+&{template:t20}{{character=@{Gunter|character_name}}}{{rollname=Soco Gentil com a Cecilia
+
+[Soco Gentil](~Gunter|Cecilia1)
+[Ataque Poderoso](~Gunter|Cecilia2)
+[Impactos Precisos](~Gunter|Cecilia3)
+[Ataque Poderoso e Impactos Precisos](~Gunter|Cecilia4)}}
+```
+
+LaminaDaLuz
+```
+&{template:t20}{{character=@{Gunter|character_name}}}{{rollname=Soco Gentil da Luz
+
+[Soco Gentil](~Gunter|Lamina1)
+[Cecilia](~Gunter|Lamina2)
+[Ataque Poderoso](~Gunter|Lamina3)
+[Impactos Precisos](~Gunter|Lamina4)
+[Cecilia e Ataque Poderoso](~Gunter|Lamina5)
+[Cecilia e Impactos Precisos](~Gunter|Lamina6)
+[Ataque Poderoso e Impactos Precisos](~Gunter|Lamina7)
+[Combo Completo](~Gunter|Lamina8)}}
+```
+
+GolpeRelampago
+```
+&{template:t20}{{character=@{Gunter|character_name}}}{{rollname=Golpe Relâmpago
+
+[Soco Normal](~Gunter|SocoRelampago)
+[Cecilia](~Gunter|CeciliaRelampago)}}
+```
+
+SocoRelampago
+```
+&{template:t20}{{character=@{Gunter|character_name}}}{{rollname=Golpe Relâmpago
+
+[Soco Gentil](~Gunter|SocoRelampago1)
+[Ataque Poderoso](~Gunter|SocoRelampago2)
+[Impactos Precisos](~Gunter|SocoRelampago3)
+[Ataque Poderoso e Impactos Precisos](~Gunter|SocoRelampago4)}}
+```
+
+CeciliaRelampago
+```
+&{template:t20}{{character=@{Gunter|character_name}}}{{rollname=Golpe Relâmpago com a Cecilia
+
+[Soco Gentil](~Gunter|CeciliaRelampago1)
+[Ataque Poderoso](~Gunter|CeciliaRelampago2)
+[Impactos Precisos](~Gunter|CeciliaRelampago3)
+[Ataque Poderoso e Impactos Precisos](~Gunter|CeciliaRelampago4)}}
+```
