@@ -1,0 +1,71 @@
+Ataques
+```
+&{template:t20}{{character=@{Gunter|character_name}}}{{rollname=Seleção de Ataques
+
+[Soco Normal](~Gunter|SocoGentil#" style="font-family:tormenta20;display:block;background-image: linear-gradient(45deg, black, #2B646B&rpar;;border:2px solid black;border-radius:10px;box-shadow:2px 2px 10px black;)
+[Cecilia](~Gunter|Cecilia#" style="font-family:tormenta20;display:block;background-image: linear-gradient(45deg, black, #2B646B&rpar;;border:2px solid black;border-radius:10px;box-shadow:2px 2px 10px black;margin-top:-10px)
+[Lâmina da Luz](~Gunter|LaminaDaLuz#" style="font-family:tormenta20;display:block;background-image: linear-gradient(45deg, black, #2B646B&rpar;;border:2px solid black;border-radius:10px;box-shadow:2px 2px 10px black;margin-top:-10px)
+[Golpe Relâmpago](~Gunter|GolpeRelampago#" style="font-family:tormenta20;display:block;background-image: linear-gradient(45deg, black, #2B646B&rpar;;border:2px solid black;border-radius:10px;box-shadow:2px 2px 10px black;margin-top:-10px)}}
+```
+
+SocoGentil
+```
+&{template:t20}{{character=@{Gunter|character_name}}}{{rollname=Soco Gentil
+
+[Soco Gentil](~Gunter|SocoGentil1#" style="font-family:tormenta20;display:block;background-image: linear-gradient(45deg, black, #2B646B&rpar;;border:2px solid black;border-radius:10px;box-shadow:2px 2px 10px black;)
+[Ataque Poderoso](~Gunter|SocoGentil2#" style="font-family:tormenta20;display:block;background-image: linear-gradient(45deg, black, #2B646B&rpar;;border:2px solid black;border-radius:10px;box-shadow:2px 2px 10px black;margin-top:-10px)
+[Impactos Precisos](~Gunter|SocoGentil3#" style="font-family:tormenta20;display:block;background-image: linear-gradient(45deg, black, #2B646B&rpar;;border:2px solid black;border-radius:10px;box-shadow:2px 2px 10px black;margin-top:-10px)
+[Ataque Poderoso e Impactos Precisos](~Gunter|SocoGentil4#" style="font-family:tormenta20;display:block;background-image: linear-gradient(45deg, black, #2B646B&rpar;;border:2px solid black;border-radius:10px;box-shadow:2px 2px 10px black;margin-top:-10px)}}
+```
+
+Cecilia
+```
+&{template:t20}{{character=@{Gunter|character_name}}}{{rollname=Soco Gentil com a Cecilia
+
+[Soco Gentil](~Gunter|Cecilia1#" style="font-family:tormenta20;display:block;background-image: linear-gradient(45deg, black, #2B646B&rpar;;border:2px solid black;border-radius:10px;box-shadow:2px 2px 10px black;)
+[Ataque Poderoso](~Gunter|Cecilia2#" style="font-family:tormenta20;display:block;background-image: linear-gradient(45deg, black, #2B646B&rpar;;border:2px solid black;border-radius:10px;box-shadow:2px 2px 10px black;margin-top:-10px)
+[Impactos Precisos](~Gunter|Cecilia3#" style="font-family:tormenta20;display:block;background-image: linear-gradient(45deg, black, #2B646B&rpar;;border:2px solid black;border-radius:10px;box-shadow:2px 2px 10px black;margin-top:-10px)
+[Ataque Poderoso e Impactos Precisos](~Gunter|Cecilia4#" style="font-family:tormenta20;display:block;background-image: linear-gradient(45deg, black, #2B646B&rpar;;border:2px solid black;border-radius:10px;box-shadow:2px 2px 10px black;margin-top:-10px)}}
+```
+
+LaminaDaLuz
+```
+&{template:t20}{{character=@{Gunter|character_name}}}{{rollname=Soco Gentil da Luz
+
+[Soco Gentil](~Gunter|Lamina1#" style="font-family:tormenta20;display:block;background-image: linear-gradient(45deg, black, #2B646B&rpar;;border:2px solid black;border-radius:10px;box-shadow:2px 2px 10px black;)
+[Cecilia](~Gunter|Lamina2#" style="font-family:tormenta20;display:block;background-image: linear-gradient(45deg, black, #2B646B&rpar;;border:2px solid black;border-radius:10px;box-shadow:2px 2px 10px black;margin-top:-10px)
+[Ataque Poderoso](~Gunter|Lamina3#" style="font-family:tormenta20;display:block;background-image: linear-gradient(45deg, black, #2B646B&rpar;;border:2px solid black;border-radius:10px;box-shadow:2px 2px 10px black;margin-top:-10px)
+[Impactos Precisos](~Gunter|Lamina4#" style="font-family:tormenta20;display:block;background-image: linear-gradient(45deg, black, #2B646B&rpar;;border:2px solid black;border-radius:10px;box-shadow:2px 2px 10px black;margin-top:-10px)
+[Cecilia e Ataque Poderoso](~Gunter|Lamina5#" style="font-family:tormenta20;display:block;background-image: linear-gradient(45deg, black, #2B646B&rpar;;border:2px solid black;border-radius:10px;box-shadow:2px 2px 10px black;margin-top:-10px)
+[Cecilia e Impactos Precisos](~Gunter|Lamina6#" style="font-family:tormenta20;display:block;background-image: linear-gradient(45deg, black, #2B646B&rpar;;border:2px solid black;border-radius:10px;box-shadow:2px 2px 10px black;margin-top:-10px)
+[Ataque Poderoso e Impactos Precisos](~Gunter|Lamina7#" style="font-family:tormenta20;display:block;background-image: linear-gradient(45deg, black, #2B646B&rpar;;border:2px solid black;border-radius:10px;box-shadow:2px 2px 10px black;margin-top:-10px)
+[Combo Completo](~Gunter|Lamina8#" style="font-family:tormenta20;display:block;background-image: linear-gradient(45deg, black, #2B646B&rpar;;border:2px solid black;border-radius:10px;box-shadow:2px 2px 10px black;margin-top:-10px)}}
+```
+
+GolpeRelampago
+```
+&{template:t20}{{character=@{Gunter|character_name}}}{{rollname=Golpe Relâmpago
+
+[Soco Normal](~Gunter|SocoRelampago#" style="font-family:tormenta20;display:block;background-image: linear-gradient(45deg, black, #2B646B&rpar;;border:2px solid black;border-radius:10px;box-shadow:2px 2px 10px black;)
+[Cecilia](~Gunter|CeciliaRelampago#" style="font-family:tormenta20;display:block;background-image: linear-gradient(45deg, black, #2B646B&rpar;;border:2px solid black;border-radius:10px;box-shadow:2px 2px 10px black;margin-top:-10px)}}
+```
+
+SocoRelampago
+```
+&{template:t20}{{character=@{Gunter|character_name}}}{{rollname=Golpe Relâmpago
+
+[Soco Gentil](~Gunter|SocoRelampago1#" style="font-family:tormenta20;display:block;background-image: linear-gradient(45deg, black, #2B646B&rpar;;border:2px solid black;border-radius:10px;box-shadow:2px 2px 10px black;)
+[Ataque Poderoso](~Gunter|SocoRelampago2#" style="font-family:tormenta20;display:block;background-image: linear-gradient(45deg, black, #2B646B&rpar;;border:2px solid black;border-radius:10px;box-shadow:2px 2px 10px black;margin-top:-10px)
+[Impactos Precisos](~Gunter|SocoRelampago3#" style="font-family:tormenta20;display:block;background-image: linear-gradient(45deg, black, #2B646B&rpar;;border:2px solid black;border-radius:10px;box-shadow:2px 2px 10px black;margin-top:-10px)
+[Ataque Poderoso e Impactos Precisos](~Gunter|SocoRelampago4#" style="font-family:tormenta20;display:block;background-image: linear-gradient(45deg, black, #2B646B&rpar;;border:2px solid black;border-radius:10px;box-shadow:2px 2px 10px black;margin-top:-10px)}}
+```
+
+CeciliaRelampago
+```
+&{template:t20}{{character=@{Gunter|character_name}}}{{rollname=Golpe Relâmpago com a Cecilia
+
+[Soco Gentil](~Gunter|CeciliaRelampago1#" style="font-family:tormenta20;display:block;background-image: linear-gradient(45deg, black, #2B646B&rpar;;border:2px solid black;border-radius:10px;box-shadow:2px 2px 10px black;)
+[Ataque Poderoso](~Gunter|CeciliaRelampago2#" style="font-family:tormenta20;display:block;background-image: linear-gradient(45deg, black, #2B646B&rpar;;border:2px solid black;border-radius:10px;box-shadow:2px 2px 10px black;margin-top:-10px)
+[Impactos Precisos](~Gunter|CeciliaRelampago3#" style="font-family:tormenta20;display:block;background-image: linear-gradient(45deg, black, #2B646B&rpar;;border:2px solid black;border-radius:10px;box-shadow:2px 2px 10px black;margin-top:-10px)
+[Ataque Poderoso e Impactos Precisos](~Gunter|CeciliaRelampago4#" style="font-family:tormenta20;display:block;background-image: linear-gradient(45deg, black, #2B646B&rpar;;border:2px solid black;border-radius:10px;box-shadow:2px 2px 10px black;margin-top:-10px)}}
+```
