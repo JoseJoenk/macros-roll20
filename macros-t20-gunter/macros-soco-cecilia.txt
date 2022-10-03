@@ -1,19 +1,19 @@
 Cecilia1
 ```
-&{template:t20-attack}{{character=@{Gunter|character_name}}}{{attackname=Soco Gentil com a Cecilia}}{{attackroll=[[1d20cs>20+[[@{Gunter|lutatotal}]]+0]]}}{{damageroll=[[1d6+@{Gunter|for_mod}+1d6+@{Gunter|Cecilia}]]}}{{criticaldamageroll=[[1d6 + 1d6+@{Gunter|for_mod}+1d6+@{Gunter|Cecilia}]]}}{{typeofdamage=Impacto}}{{description=[imagem](https://c.tenor.com/XS-iOPsoRyoAAAAM/anime-fight.gif)}}
+&{template:t20-attack}{{character=@{Gunter|character_name}}}{{attackname=Soco Gentil com a Cecilia}}{{attackroll=[[1d20cs>19+[[@{Gunter|lutatotal}]]+0]]}}{{damageroll=[[@{Gunter|desarmado}+@{Gunter|for_mod}+@{Gunter|luvas_de_ouro}+@{Gunter|Cecilia}]]}}{{criticaldamageroll=[[@{Gunter|desarmado} + @{Gunter|desarmado}+@{Gunter|for_mod}+@{Gunter|luvas_de_ouro}+@{Gunter|Cecilia}]]}}{{typeofdamage=Impacto}}{{description=[imagem](https://c.tenor.com/XS-iOPsoRyoAAAAM/anime-fight.gif)}}
 ```
 
 Cecilia2
 ```
-&{template:t20-attack}{{character=@{Gunter|character_name}}}{{attackname=Soco Gentil com a Cecilia}}{{attackroll=[[1d20cs>20+[[@{Gunter|lutatotal}]]+-2]]}} {{damageroll=[[1d6+@{Gunter|for_mod}+1d6+@{Gunter|Cecilia}+5]]}} {{criticaldamageroll=[[1d6 + 1d6+@{Gunter|for_mod}+1d6+@{Gunter|Cecilia}+5]]}}{{typeofdamage=Impacto}}{{description=[imagem](https://c.tenor.com/XS-iOPsoRyoAAAAM/anime-fight.gif)}}
+&{template:t20-attack}{{character=@{Gunter|character_name}}}{{attackname=Soco Gentil com a Cecilia}}{{attackroll=[[1d20cs>19+[[@{Gunter|lutatotal}]]+-2]]}} {{damageroll=[[@{Gunter|desarmado}+@{Gunter|for_mod}+@{Gunter|luvas_de_ouro}+@{Gunter|Cecilia}+5]]}} {{criticaldamageroll=[[@{Gunter|desarmado} + @{Gunter|desarmado}+@{Gunter|for_mod}+@{Gunter|luvas_de_ouro}+@{Gunter|Cecilia}+5]]}}{{typeofdamage=Impacto}}{{description=[imagem](https://c.tenor.com/XS-iOPsoRyoAAAAM/anime-fight.gif)}}
 ```
 
 Cecilia3
 ```
-&{template:t20-attack}{{character=@{Gunter|character_name}}}{{attackname=Soco Gentil com a Cecilia}}{{attackroll=[[1d20cs>20+[[@{Gunter|lutatotal}]]+@{Gunter|int_mod}]]}} {{damageroll=[[1d6+@{Gunter|for_mod}+1d6+@{Gunter|Cecilia}+@{Gunter|int_mod}]]}} {{criticaldamageroll=[[1d6 + 1d6+@{Gunter|for_mod}+1d6+@{Gunter|Cecilia}+@{Gunter|int_mod}]]}}{{typeofdamage=Impacto}}{{description=[imagem](https://c.tenor.com/YGKPpkNN6g0AAAAC/anime-jujutsu-kaisen-anime-punch.gif)}}
+&{template:t20-attack}{{character=@{Gunter|character_name}}}{{attackname=Soco Gentil com a Cecilia}}{{attackroll=[[1d20cs>19+[[@{Gunter|lutatotal}]]+@{Gunter|int_mod}]]}} {{damageroll=[[@{Gunter|desarmado}+@{Gunter|for_mod}+@{Gunter|luvas_de_ouro}+@{Gunter|Cecilia}+@{Gunter|int_mod}]]}} {{criticaldamageroll=[[@{Gunter|desarmado} + @{Gunter|desarmado}+@{Gunter|for_mod}+@{Gunter|luvas_de_ouro}+@{Gunter|Cecilia}+@{Gunter|int_mod}]]}}{{typeofdamage=Impacto}}{{description=[imagem](https://c.tenor.com/YGKPpkNN6g0AAAAC/anime-jujutsu-kaisen-anime-punch.gif)}}
 ```
 
 Cecilia4
 ```
-&{template:t20-attack}{{character=@{Gunter|character_name}}}{{attackname=Soco Gentil com a Cecilia}}{{attackroll=[[1d20cs>20+[[@{Gunter|lutatotal}]]+-2+@{Gunter|int_mod}]]}} {{damageroll=[[1d6+@{Gunter|for_mod}+1d6+@{Gunter|Cecilia}+5+@{Gunter|int_mod}]]}} {{criticaldamageroll=[[1d6 + 1d6+@{Gunter|for_mod}+1d6+@{Gunter|Cecilia}+5+@{Gunter|int_mod}]]}}{{typeofdamage=Impacto}}{{description=[imagem](https://c.tenor.com/YGKPpkNN6g0AAAAC/anime-jujutsu-kaisen-anime-punch.gif)}}
+&{template:t20-attack}{{character=@{Gunter|character_name}}}{{attackname=Soco Gentil com a Cecilia}}{{attackroll=[[1d20cs>19+[[@{Gunter|lutatotal}]]+-2+@{Gunter|int_mod}]]}} {{damageroll=[[@{Gunter|desarmado}+@{Gunter|for_mod}+@{Gunter|luvas_de_ouro}+@{Gunter|Cecilia}+5+@{Gunter|int_mod}]]}} {{criticaldamageroll=[[@{Gunter|desarmado} + @{Gunter|desarmado}+@{Gunter|for_mod}+@{Gunter|luvas_de_ouro}+@{Gunter|Cecilia}+5+@{Gunter|int_mod}]]}}{{typeofdamage=Impacto}}{{description=[imagem](https://c.tenor.com/YGKPpkNN6g0AAAAC/anime-jujutsu-kaisen-anime-punch.gif)}}
 ```
